@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL69zR3FJSa"
+#define BLYNK_TEMPLATE_ID "*"
 #define BLYNK_TEMPLATE_NAME "Smart door notification"
-#define BLYNK_AUTH_TOKEN "oBzChq1jYbu1mabyxasfhfvwKC5HiyIE"
+#define BLYNK_AUTH_TOKEN "********"
 
 #include <SPI.h>
 #include <MFRC522.h>
